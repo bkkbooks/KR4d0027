@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4d0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孫明復小集
+  date: '2015-08-24 23:50:50.476891'
+  source:
+    repository: kanripo
+    path: KR4d0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0027_000-WYG.yaml, hash: 'sha256:be8ed02635a169816b362c7eafc67ccee15f11bc3da1971553307203ddbb91e6'}
+  - {seq: 1, filename: KR4d0027_001-WYG.yaml, hash: 'sha256:d4632cf510de97d0cfcd92489f5ef378906da7040621ab75915bfbd14a5120f0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0027_000-WYG.markers.yaml, hash: 'sha256:4acdb98152988242421345e750ed6e2b20719bc29575abc94ba13c633c8d1edd'}
+  - {seq: 1, role: markers, filename: assets/KR4d0027_001-WYG.markers.yaml, hash: 'sha256:ca9f2fa7b3c4ef84ba08077403fe002aca0df0369ca31ff1703102e26a3b2ea8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 258
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0027_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10635
+  label: 孫明復小集
+  type: section
+  level: 1
+hash: sha256:193af7219a6fc90f5aff905d7e5a077403b3bc8e6bddf106d20f1eed8399c543
