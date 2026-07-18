@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4d0027_000.yaml, hash: 'sha256:248257351c719822d06cdacb8f141508d784fb4fef56111564ffcce3a798b239'}
   - {seq: 1, filename: KR4d0027_001.yaml, hash: 'sha256:5aeab31b8f60ca2d93620ae543769e4b7b8b64ce1f6f16024b98dc5643c6a37c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0027_000.markers.yaml, hash: 'sha256:927360101cf146548598ec63f0fb173ac3353e589a0eca4db686dc0b6e129b4b'}
+  - {seq: 0, role: markers, filename: assets/KR4d0027_000.markers.yaml, hash: 'sha256:e91046af0e4c66ed89a5177b8849c163827a5e79e7240dbd51626bc8c49b09fc'}
   - {seq: 1, role: markers, filename: assets/KR4d0027_001.markers.yaml, hash: 'sha256:fb462c439a4789569024efba576e1623b3ede9d8e40f0fc480fa11fec6f1ae9a'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 孫明復小集
   type: section
   level: 1
-hash: sha256:83d6fd7a267c8013d28ab6d49878f50c65f5092d88c4d8a770cbe0d3580923a9
+hash: sha256:f85d90a911d851736e4f3fe39a49bbff60659190b97be495b8e7b942b9bef0de
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

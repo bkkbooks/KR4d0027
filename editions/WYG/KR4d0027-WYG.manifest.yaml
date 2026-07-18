@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4d0027_000-WYG.yaml, hash: 'sha256:be8ed02635a169816b362c7eafc67ccee15f11bc3da1971553307203ddbb91e6'}
   - {seq: 1, filename: KR4d0027_001-WYG.yaml, hash: 'sha256:d4632cf510de97d0cfcd92489f5ef378906da7040621ab75915bfbd14a5120f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0027_000-WYG.markers.yaml, hash: 'sha256:4acdb98152988242421345e750ed6e2b20719bc29575abc94ba13c633c8d1edd'}
+  - {seq: 0, role: markers, filename: assets/KR4d0027_000-WYG.markers.yaml, hash: 'sha256:88a5d55aee31df37f884adbda2d3681c5b77054b844fb2e2ac7a63bf025736ec'}
   - {seq: 1, role: markers, filename: assets/KR4d0027_001-WYG.markers.yaml, hash: 'sha256:ca9f2fa7b3c4ef84ba08077403fe002aca0df0369ca31ff1703102e26a3b2ea8'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 孫明復小集
   type: section
   level: 1
-hash: sha256:193af7219a6fc90f5aff905d7e5a077403b3bc8e6bddf106d20f1eed8399c543
+hash: sha256:438429dcecdc8c3a6d50bfe34629e5e4dd0f9d0855c4e72eafab364bf0d50f3f
